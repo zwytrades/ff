@@ -1,0 +1,7 @@
+name = "groupsimple-check-rq"
+main = "worker/worker.js"
+compatibility_date = "2026-10-17"
+workers_dev = true
+
+# Add secrets and environment variables in the Cloudflare dashboard.
+# Do not store Discord or GitHub tokens in this file.
